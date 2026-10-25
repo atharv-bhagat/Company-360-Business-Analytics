@@ -1,0 +1,21 @@
+employee_id,employee_name,department,region,hire_date
+1,Employee 01,Support,South,2024-09-15
+2,Employee 02,Support,South,2024-08-15
+3,Employee 03,Sales,West,2024-05-15
+4,Employee 04,Sales,West,2024-10-15
+5,Employee 05,Support,South,2024-01-15
+6,Employee 06,Support,North,2024-01-15
+7,Employee 07,Sales,South,2024-08-15
+8,Employee 08,Support,South,2024-03-15
+9,Employee 09,Sales,South,2024-02-15
+10,Employee 10,Sales,West,2024-10-15
+11,Employee 11,Sales,South,2024-04-15
+12,Employee 12,Operations,West,2024-10-15
+13,Employee 13,Sales,South,2024-10-15
+14,Employee 14,Sales,South,2024-02-15
+15,Employee 15,Operations,South,2024-10-15
+16,Employee 16,Support,South,2024-06-15
+17,Employee 17,Operations,West,2024-11-15
+18,Employee 18,Support,North,2024-04-15
+19,Employee 19,Operations,North,2024-03-15
+20,Employee 20,Support,South,2024-05-15

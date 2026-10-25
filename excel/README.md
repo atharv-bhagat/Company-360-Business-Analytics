@@ -1,0 +1,1 @@
+Open company360_report.xlsx. KPI Summary and charts are calculated from delivered-order line items. Sales Data is a flattened analysis table, not the original relational database. All data is synthetic.

@@ -1,0 +1,27 @@
+return_id,order_id,reason,return_date
+1,11,Wrong item,2026-06-14
+2,48,Damaged,2026-06-22
+3,56,Wrong item,2026-07-22
+4,58,Changed mind,2026-02-28
+5,72,Changed mind,2026-03-14
+6,74,Damaged,2026-01-26
+7,75,Changed mind,2026-09-09
+8,97,Wrong item,2026-05-19
+9,99,Changed mind,2026-08-17
+10,100,Changed mind,2026-08-17
+11,103,Wrong item,2026-07-21
+12,113,Wrong item,2026-09-24
+13,114,Wrong item,2026-08-03
+14,115,Wrong item,2026-07-06
+15,135,Wrong item,2026-09-10
+16,137,Wrong item,2026-07-05
+17,139,Wrong item,2026-08-10
+18,152,Wrong item,2026-09-23
+19,182,Damaged,2026-03-05
+20,184,Changed mind,2026-01-20
+21,225,Wrong item,2026-02-21
+22,227,Changed mind,2026-01-13
+23,234,Damaged,2026-07-12
+24,238,Wrong item,2026-01-10
+25,240,Changed mind,2026-01-11
+26,241,Wrong item,2026-06-06

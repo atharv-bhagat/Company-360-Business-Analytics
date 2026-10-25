@@ -1,0 +1,251 @@
+payment_id,order_id,amount,payment_method,payment_status
+1,1,121500.0,Net Banking,Pending
+2,2,17675.0,Net Banking,Refunded
+3,3,30025.0,Card,Paid
+4,4,74825.0,Card,Paid
+5,5,147490.0,Net Banking,Paid
+6,6,8150.0,Net Banking,Paid
+7,7,54740.0,Net Banking,Refunded
+8,8,105700.0,Card,Paid
+9,9,25240.0,Card,Paid
+10,10,52000.0,UPI,Paid
+11,11,8400.0,Card,Paid
+12,12,20980.0,Net Banking,Paid
+13,13,5300.0,Net Banking,Paid
+14,14,74375.0,Card,Paid
+15,15,47420.0,Net Banking,Paid
+16,16,50335.0,Card,Paid
+17,17,7122.5,Net Banking,Refunded
+18,18,25785.0,Net Banking,Paid
+19,19,40450.0,Card,Paid
+20,20,8400.0,Net Banking,Paid
+21,21,1615.0,Net Banking,Paid
+22,22,10710.0,Net Banking,Paid
+23,23,24210.0,Card,Paid
+24,24,29300.0,Card,Refunded
+25,25,46000.0,Net Banking,Paid
+26,26,850.0,Net Banking,Paid
+27,27,8520.0,Net Banking,Paid
+28,28,79040.0,UPI,Paid
+29,29,11020.0,Net Banking,Pending
+30,30,4760.0,Card,Paid
+31,31,30640.0,UPI,Paid
+32,32,43100.0,Card,Paid
+33,33,2422.5,Card,Paid
+34,34,29000.0,Card,Paid
+35,35,23970.0,Card,Paid
+36,36,31572.5,Net Banking,Paid
+37,37,6200.0,UPI,Paid
+38,38,14285.0,Net Banking,Pending
+39,39,17000.0,UPI,Paid
+40,40,20260.0,Net Banking,Paid
+41,41,130000.0,Net Banking,Paid
+42,42,765.0,UPI,Paid
+43,43,1445.0,Card,Paid
+44,44,83070.0,Card,Paid
+45,45,98275.0,Card,Paid
+46,46,85720.0,UPI,Paid
+47,47,26960.0,Card,Paid
+48,48,32205.0,Net Banking,Paid
+49,49,167950.0,Net Banking,Paid
+50,50,47950.0,Net Banking,Paid
+51,51,807.5,UPI,Paid
+52,52,62500.0,Card,Paid
+53,53,13540.0,Net Banking,Refunded
+54,54,17240.0,Card,Paid
+55,55,17670.0,Net Banking,Refunded
+56,56,98800.0,Card,Paid
+57,57,25000.0,Net Banking,Refunded
+58,58,53310.0,Net Banking,Paid
+59,59,58795.0,UPI,Paid
+60,60,14180.0,UPI,Paid
+61,61,46750.0,Net Banking,Paid
+62,62,32390.0,Net Banking,Paid
+63,63,134490.0,Net Banking,Pending
+64,64,46750.0,Net Banking,Paid
+65,65,158100.0,Card,Paid
+66,66,12640.0,Card,Paid
+67,67,14280.0,Card,Pending
+68,68,18850.0,Net Banking,Paid
+69,69,78000.0,Net Banking,Paid
+70,70,1600.0,Card,Paid
+71,71,26920.0,Card,Refunded
+72,72,34800.0,Card,Paid
+73,73,44307.5,Net Banking,Paid
+74,74,5015.0,Net Banking,Paid
+75,75,63780.0,Card,Paid
+76,76,42840.0,UPI,Paid
+77,77,23750.0,Net Banking,Paid
+78,78,2880.0,Net Banking,Paid
+79,79,68065.0,UPI,Paid
+80,80,6860.0,Card,Paid
+81,81,2380.0,Net Banking,Paid
+82,82,31760.0,Card,Paid
+83,83,57200.0,UPI,Paid
+84,84,2720.0,Card,Paid
+85,85,48250.0,UPI,Refunded
+86,86,29780.0,UPI,Paid
+87,87,32590.0,Card,Paid
+88,88,8400.0,UPI,Paid
+89,89,88400.0,Card,Paid
+90,90,111885.0,Card,Paid
+91,91,2800.0,UPI,Paid
+92,92,2800.0,Card,Paid
+93,93,6200.0,Net Banking,Refunded
+94,94,7150.0,Card,Paid
+95,95,10640.0,Net Banking,Paid
+96,96,11875.0,Card,Pending
+97,97,16150.0,UPI,Paid
+98,98,159900.0,Net Banking,Paid
+99,99,61625.0,UPI,Paid
+100,100,16540.0,Net Banking,Paid
+101,101,47675.0,UPI,Paid
+102,102,78000.0,Card,Pending
+103,103,18155.0,Card,Paid
+104,104,850.0,UPI,Pending
+105,105,10080.0,UPI,Paid
+106,106,4200.0,Card,Paid
+107,107,3200.0,Card,Paid
+108,108,21700.0,UPI,Pending
+109,109,5920.0,UPI,Paid
+110,110,1700.0,UPI,Paid
+111,111,37825.0,Card,Paid
+112,112,56560.0,UPI,Refunded
+113,113,8500.0,UPI,Paid
+114,114,14420.0,Card,Paid
+115,115,17260.0,Card,Paid
+116,116,7207.5,Net Banking,Paid
+117,117,82550.0,UPI,Paid
+118,118,16905.0,UPI,Paid
+119,119,9880.0,Net Banking,Paid
+120,120,8400.0,Net Banking,Paid
+121,121,78660.0,Card,Paid
+122,122,15960.0,Card,Paid
+123,123,1600.0,Net Banking,Paid
+124,124,35800.0,Card,Paid
+125,125,34760.0,Net Banking,Paid
+126,126,14500.0,Card,Refunded
+127,127,35425.0,Net Banking,Paid
+128,128,1700.0,Card,Paid
+129,129,57265.0,Card,Pending
+130,130,39330.0,Net Banking,Pending
+131,131,52720.0,UPI,Pending
+132,132,16800.0,UPI,Paid
+133,133,87080.0,UPI,Paid
+134,134,12180.0,UPI,Pending
+135,135,19422.5,Net Banking,Paid
+136,136,18600.0,Net Banking,Paid
+137,137,54000.0,UPI,Paid
+138,138,78807.5,Net Banking,Pending
+139,139,8950.0,UPI,Paid
+140,140,15120.0,UPI,Paid
+141,141,7980.0,Net Banking,Paid
+142,142,20040.0,Net Banking,Pending
+143,143,25610.0,Net Banking,Paid
+144,144,61290.0,UPI,Paid
+145,145,101140.0,Card,Refunded
+146,146,5600.0,Net Banking,Paid
+147,147,8400.0,Card,Paid
+148,148,45865.0,Card,Paid
+149,149,39700.0,Net Banking,Paid
+150,150,43055.0,Card,Paid
+151,151,41700.0,UPI,Paid
+152,152,9742.5,UPI,Paid
+153,153,3040.0,Net Banking,Paid
+154,154,64650.0,UPI,Paid
+155,155,5600.0,Net Banking,Refunded
+156,156,11780.0,Net Banking,Paid
+157,157,29000.0,Net Banking,Paid
+158,158,88100.0,UPI,Paid
+159,159,17000.0,Card,Paid
+160,160,10242.5,UPI,Paid
+161,161,62907.5,UPI,Paid
+162,162,28160.0,Net Banking,Paid
+163,163,78000.0,UPI,Paid
+164,164,145325.0,Net Banking,Paid
+165,165,286000.0,Card,Paid
+166,166,100160.0,Net Banking,Pending
+167,167,39695.0,Card,Paid
+168,168,98800.0,Net Banking,Paid
+169,169,8750.0,UPI,Paid
+170,170,112950.0,Card,Paid
+171,171,6400.0,Net Banking,Refunded
+172,172,7225.0,Net Banking,Paid
+173,173,100460.0,Net Banking,Paid
+174,174,15020.0,Card,Paid
+175,175,23340.0,Card,Paid
+176,176,33560.0,UPI,Paid
+177,177,53785.0,Card,Paid
+178,178,25750.0,Card,Refunded
+179,179,4200.0,UPI,Refunded
+180,180,14440.0,UPI,Paid
+181,181,47210.0,Card,Paid
+182,182,9600.0,Net Banking,Paid
+183,183,2100.0,UPI,Paid
+184,184,151600.0,Card,Paid
+185,185,13050.0,UPI,Paid
+186,186,65050.0,Net Banking,Paid
+187,187,194175.0,Net Banking,Paid
+188,188,5985.0,Card,Refunded
+189,189,33900.0,Card,Refunded
+190,190,25200.0,Net Banking,Paid
+191,191,16740.0,Net Banking,Paid
+192,192,7130.0,Net Banking,Paid
+193,193,21980.0,Card,Paid
+194,194,22275.0,Card,Pending
+195,195,18600.0,Net Banking,Paid
+196,196,6300.0,Net Banking,Paid
+197,197,6920.0,Card,Paid
+198,198,143200.0,Net Banking,Pending
+199,199,15300.0,Net Banking,Paid
+200,200,37305.0,Card,Pending
+201,201,61470.0,UPI,Pending
+202,202,10360.0,Card,Paid
+203,203,111060.0,Net Banking,Paid
+204,204,31800.0,Net Banking,Pending
+205,205,26060.0,Net Banking,Paid
+206,206,2100.0,Card,Paid
+207,207,12185.0,UPI,Paid
+208,208,10560.0,Card,Paid
+209,209,141930.0,Card,Paid
+210,210,68400.0,Net Banking,Paid
+211,211,83300.0,Net Banking,Paid
+212,212,18600.0,Net Banking,Paid
+213,213,19320.0,UPI,Paid
+214,214,5890.0,UPI,Paid
+215,215,89750.0,UPI,Paid
+216,216,32760.0,Card,Paid
+217,217,6300.0,Card,Paid
+218,218,19855.0,Card,Paid
+219,219,156000.0,Net Banking,Paid
+220,220,52400.0,Card,Pending
+221,221,4800.0,UPI,Paid
+222,222,55960.0,Card,Paid
+223,223,61185.0,Card,Paid
+224,224,61600.0,Net Banking,Paid
+225,225,13775.0,Card,Paid
+226,226,11200.0,UPI,Paid
+227,227,19260.0,Card,Paid
+228,228,21660.0,UPI,Paid
+229,229,2380.0,Net Banking,Paid
+230,230,3780.0,Net Banking,Paid
+231,231,11245.0,UPI,Paid
+232,232,89850.0,Net Banking,Pending
+233,233,20000.0,Card,Paid
+234,234,27550.0,UPI,Paid
+235,235,47130.0,Net Banking,Paid
+236,236,6080.0,Net Banking,Paid
+237,237,807.5,UPI,Paid
+238,238,156000.0,Net Banking,Paid
+239,239,5270.0,Card,Paid
+240,240,125150.0,Card,Paid
+241,241,71095.0,UPI,Paid
+242,242,9600.0,Card,Pending
+243,243,84040.0,Card,Paid
+244,244,76650.0,Net Banking,Paid
+245,245,5440.0,Net Banking,Pending
+246,246,12350.0,UPI,Paid
+247,247,5880.0,UPI,Refunded
+248,248,47300.0,Card,Paid
+249,249,4800.0,UPI,Paid
+250,250,26700.0,UPI,Paid

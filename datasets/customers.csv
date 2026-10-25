@@ -1,0 +1,81 @@
+customer_id,customer_name,segment,city,signup_date
+1,Customer 001,Small Business,Mumbai,2025-01-24
+2,Customer 002,Corporate,Pune,2025-04-05
+3,Customer 003,Small Business,Mumbai,2025-11-24
+4,Customer 004,Small Business,Mumbai,2025-10-14
+5,Customer 005,Consumer,Mumbai,2025-02-07
+6,Customer 006,Consumer,Hyderabad,2025-10-01
+7,Customer 007,Small Business,Pune,2025-12-21
+8,Customer 008,Small Business,Hyderabad,2025-07-08
+9,Customer 009,Corporate,Hyderabad,2025-05-26
+10,Customer 010,Consumer,Pune,2025-12-14
+11,Customer 011,Corporate,Delhi,2025-03-07
+12,Customer 012,Corporate,Mumbai,2025-02-13
+13,Customer 013,Consumer,Delhi,2025-06-20
+14,Customer 014,Corporate,Mumbai,2025-12-15
+15,Customer 015,Small Business,Mumbai,2025-07-03
+16,Customer 016,Small Business,Delhi,2025-11-20
+17,Customer 017,Corporate,Hyderabad,2025-04-23
+18,Customer 018,Consumer,Mumbai,2025-11-08
+19,Customer 019,Corporate,Mumbai,2025-04-28
+20,Customer 020,Consumer,Bengaluru,2025-05-15
+21,Customer 021,Small Business,Delhi,2025-03-12
+22,Customer 022,Corporate,Pune,2025-11-09
+23,Customer 023,Small Business,Mumbai,2025-10-21
+24,Customer 024,Consumer,Hyderabad,2025-12-08
+25,Customer 025,Consumer,Bengaluru,2025-07-09
+26,Customer 026,Small Business,Hyderabad,2025-04-22
+27,Customer 027,Corporate,Mumbai,2025-04-27
+28,Customer 028,Consumer,Delhi,2025-07-09
+29,Customer 029,Consumer,Pune,2025-10-23
+30,Customer 030,Corporate,Pune,2025-11-16
+31,Customer 031,Corporate,Bengaluru,2025-03-09
+32,Customer 032,Consumer,Pune,2025-12-18
+33,Customer 033,Small Business,Delhi,2025-12-19
+34,Customer 034,Corporate,Hyderabad,2025-07-12
+35,Customer 035,Consumer,Pune,2025-09-16
+36,Customer 036,Consumer,Mumbai,2025-02-05
+37,Customer 037,Small Business,Pune,2025-11-14
+38,Customer 038,Small Business,Mumbai,2025-07-13
+39,Customer 039,Small Business,Bengaluru,2025-09-09
+40,Customer 040,Small Business,Mumbai,2025-11-24
+41,Customer 041,Consumer,Hyderabad,2025-05-25
+42,Customer 042,Small Business,Delhi,2025-02-10
+43,Customer 043,Corporate,Pune,2025-08-01
+44,Customer 044,Small Business,Delhi,2025-09-25
+45,Customer 045,Consumer,Hyderabad,2025-02-28
+46,Customer 046,Small Business,Delhi,2025-11-17
+47,Customer 047,Small Business,Pune,2025-03-12
+48,Customer 048,Consumer,Hyderabad,2025-09-01
+49,Customer 049,Small Business,Delhi,2025-08-01
+50,Customer 050,Consumer,Delhi,2025-05-08
+51,Customer 051,Consumer,Pune,2025-10-03
+52,Customer 052,Consumer,Bengaluru,2025-02-25
+53,Customer 053,Small Business,Pune,2025-03-22
+54,Customer 054,Corporate,Hyderabad,2025-03-09
+55,Customer 055,Small Business,Hyderabad,2025-07-07
+56,Customer 056,Small Business,Pune,2025-12-10
+57,Customer 057,Corporate,Delhi,2025-08-17
+58,Customer 058,Corporate,Mumbai,2025-04-08
+59,Customer 059,Consumer,Delhi,2025-01-19
+60,Customer 060,Small Business,Pune,2025-10-08
+61,Customer 061,Consumer,Mumbai,2025-12-21
+62,Customer 062,Consumer,Pune,2025-02-02
+63,Customer 063,Corporate,Mumbai,2025-09-08
+64,Customer 064,Corporate,Bengaluru,2025-04-18
+65,Customer 065,Consumer,Hyderabad,2025-10-16
+66,Customer 066,Consumer,Bengaluru,2025-07-07
+67,Customer 067,Consumer,Mumbai,2025-11-14
+68,Customer 068,Corporate,Bengaluru,2025-07-15
+69,Customer 069,Small Business,Mumbai,2025-11-21
+70,Customer 070,Small Business,Mumbai,2025-01-13
+71,Customer 071,Small Business,Delhi,2025-02-08
+72,Customer 072,Consumer,Pune,2025-09-15
+73,Customer 073,Consumer,Bengaluru,2025-03-09
+74,Customer 074,Corporate,Pune,2025-02-15
+75,Customer 075,Small Business,Mumbai,2025-01-21
+76,Customer 076,Small Business,Mumbai,2025-02-25
+77,Customer 077,Consumer,Pune,2025-07-16
+78,Customer 078,Corporate,Pune,2025-07-02
+79,Customer 079,Consumer,Bengaluru,2025-01-13
+80,Customer 080,Corporate,Bengaluru,2025-05-14
