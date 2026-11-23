@@ -1,51 +1,111 @@
-# Company 360 Analytics | SQL + Excel + Power BI-ready Data
+# Company Insights 360 – Business Analytics Project
 
-> **Portfolio demonstration | Synthetic data (not real company records)**
+A retail business analytics project using SQL, Excel and Power BI to explore sales, customers, products, payments and returns.
 
-## Overview
-Analyze sales, customers, products, payments and returns for a fictional retail company using a relational dataset. This repository contains **7 CSV files**, a MySQL schema, **10 SQL analysis queries**, and an Excel reporting workbook. The dataset is also ready for a future Power BI report; **a Power BI dashboard is not included yet**.
+> **Note:** This project uses synthetic data created for learning and portfolio purposes.
 
-## Tools
-MySQL 8+, Microsoft Excel, Git, GitHub. Power BI Desktop is optional for future work.
+## About the Project
 
-## Files
-- `datasets/` – 7 related CSV tables
-- `sql/01_schema.sql` – relational schema and foreign keys
-- `sql/02_analysis.sql` – business KPI and segment queries
-- `excel/company360_report.xlsx` – Excel report and charts
-- `powerbi/POWERBI_GUIDE.md` – instructions to build the dashboard
+I created this project to practise working with business data and understand how different data analytics tools can be used together.
 
-## Business questions
-1. What are delivered-order sales and average order value?
-2. How do sales change by month?
-3. Which products, categories, customer segments and cities perform best?
-4. What share of delivered orders have returns?
-5. Which payment methods and employee regions contribute most?
+The project is based on a fictional retail company and contains 7 related CSV files covering customers, products, employees, orders, order items, payments and returns.
 
-## Run in MySQL Workbench
-1. Open `sql/01_schema.sql` in MySQL Workbench and execute it.
-2. In the **Schemas** pane, refresh, expand `company360`, then expand **Tables**.
-3. For each table, right-click the **table name** (not the Tables heading), select **Table Data Import Wizard**, choose the matching CSV in `datasets/`, and import into the **existing table**. If your Workbench version lacks the wizard, use a supported CSV import method.
-4. Import in this order: `customers`, `products`, `employees`, `orders`, `order_items`, `payments`, `returns`.
-5. Open and run `sql/02_analysis.sql`.
-6. Check the Excel report and explain the results in your own words.
+I used MySQL to store the data and write queries for different business questions. I also worked with Excel for reporting and created a three-page Power BI dashboard to explore the data through charts, KPIs and filters.
 
-**Important:** Sales are calculated from order line items for delivered orders only; returns are counted but **not deducted from sales**. These are gross delivered sales, not audited net revenue or profit. Payments are simulated and do not represent actual transactions.
+The main aim was to get practical experience with SQL, Excel and Power BI by working on one complete business analytics project.
 
-## Git commands
-```bash
-git init
-git add .
-git commit -m "Initial Company 360 analytics project"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/Company-360-Analytics.git
-git push -u origin main
-```
+## Tools Used
 
-## Next steps
-- Build and add an actual Power BI `.pbix` dashboard and screenshots.
-- Write 3–5 business insights based on your own SQL output.
-- Extend the analysis with returns-adjusted sales, cost and profit data.
+- **MySQL:** Database creation, joins, filtering, aggregations and SQL analysis.
+- **Microsoft Excel:** Data analysis, reporting and charts.
+- **Power BI:** Dashboard creation, KPIs, charts and interactive filters.
+- **Git & GitHub:** Project storage and documentation.
 
-## Disclaimer
-All names and transactions are generated for practice. No real customer data is used.
+## Project Structure
+
+- `datasets/` – Contains 7 CSV files used in the project.
+- `sql/` – MySQL schema and 10 SQL analysis queries.
+- `excel/` – Excel reporting workbook.
+- `powerbi/` – Power BI dashboard and related guide.
+- `screenshots/` – Dashboard screenshots.
+
+## Power BI Dashboard
+
+I created the dashboard with three pages to look at different areas of the business.
+
+### 1. Executive Overview
+- Overall business performance.
+- Revenue, orders and customer KPIs.
+- Monthly sales and order trends.
+- Business performance overview.
+
+### 2. Sales & Product Analytics
+- Product-wise sales.
+- Category-wise performance.
+- Best-performing products.
+- Sales and quantity analysis.
+
+### 3. Customer & Regional Insights
+- Customer distribution.
+- City-wise business performance.
+- Regional analysis.
+- Payment methods and payment status.
+
+**Power BI File:** `powerbi/Company_Insights_360.pbix`
+
+The dashboard can be opened using Microsoft Power BI Desktop.
+
+## SQL Analysis
+
+I created a relational database in MySQL using the 7 CSV datasets and wrote 10 SQL queries to explore different business questions.
+
+Some of the topics covered include:
+
+- Total delivered-order sales and average order value.
+- Monthly sales performance.
+- Best-performing products and categories.
+- Customer segments and city-wise analysis.
+- Returns and payment methods.
+- Employee region performance.
+
+## Excel Report
+
+The Excel workbook contains business data analysis and charts to help understand the dataset and compare different business metrics.
+
+**File:** `excel/company360_report.xlsx`
+
+## How to Run the Project
+
+1. Open MySQL Workbench.
+2. Execute `sql/01_schema.sql` to create the database and tables.
+3. Import the CSV files from the `datasets/` folder into their respective tables.
+4. Import the files in this order: customers, products, employees, orders, order_items, payments and returns.
+5. Execute `sql/02_analysis.sql` to run the analysis queries.
+6. Open the Excel workbook to review the reports.
+7. Open the `.pbix` file in Power BI Desktop to explore the dashboard.
+
+## Important Notes
+
+- Sales are calculated using order line items for delivered orders only.
+- Returns are counted separately and are not deducted from sales.
+- Sales figures represent gross delivered sales, not net revenue or profit.
+- All payment and customer records are synthetic.
+
+## What I Learned
+
+While working on this project, I got practical experience with:
+
+- Working with multiple related datasets.
+- Creating relational tables and understanding foreign keys.
+- Writing SQL queries using joins and aggregate functions.
+- Analysing business data in Excel.
+- Creating Power BI dashboards and working with KPIs.
+- Presenting data through charts and visual reports.
+
+## Author
+
+**Atharv Bhagat**
+
+GitHub: [atharv-bhagat](https://github.com/atharv-bhagat)
+
+LinkedIn: [Atharv Bhagat](https://linkedin.com/in/atharv-bhagat1801)
