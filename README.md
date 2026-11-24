@@ -82,7 +82,7 @@ The Excel workbook contains business data analysis and charts to help understand
 4. Import the files in this order: customers, products, employees, orders, order_items, payments and returns.
 5. Execute `sql/02_analysis.sql` to run the analysis queries.
 6. Open the Excel workbook to review the reports.
-7. Open the `.pbix` file in Power BI Desktop to explore the dashboard.
+7. Open the `Company 360.pbix` file in Power BI Desktop to explore the dashboard.
 
 ## Important Notes
 
