@@ -1,4 +1,4 @@
-# Power BI Dashboard Guide – Company 360
+# Power BI Dashboard Guide – Company Insights 360
 
 ## 1. Overview
 
