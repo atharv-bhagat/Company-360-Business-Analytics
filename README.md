@@ -51,7 +51,7 @@ I created the dashboard with three pages to look at different areas of the busin
 - Regional analysis.
 - Payment methods and payment status.
 
-**Power BI File:** `powerbi/Company_Insights_360.pbix`
+**Power BI File:** `powerbi/Company 360.pbix`
 
 The dashboard can be opened using Microsoft Power BI Desktop.
 
